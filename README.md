@@ -1,6 +1,6 @@
 # June Moment Countdown
 
-Embeddable countdown to June 11, 2026, 9:00 AM ET, Times Center NYC. One HTML file, no dependencies, works inside Notion via `/embed`.
+Embeddable countdown to June 11, 2026, 12:00 PM ET, Times Center NYC. One HTML file, no dependencies, works inside Notion via `/embed`.
 
 ## Preview it locally first
 
@@ -36,6 +36,6 @@ Edit `index.html` in the GitHub web UI (pencil icon), commit. GitHub Pages redep
 
 Common edits:
 
-- Change the target time: line with `TARGET = new Date("2026-06-11T09:00:00-04:00")`
+- Change the target time: line with `TARGET = new Date("2026-06-11T12:00:00-04:00")`
 - Change the copy: the `<section id="countdown">` and `<section id="live">` blocks
 - Change the style: top of the file, inside `<style>...</style>`
